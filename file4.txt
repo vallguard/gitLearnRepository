@@ -1,2 +1,4 @@
 And one more file!
 And some new text!
+
+Line from user 2
